@@ -1,0 +1,9 @@
+baseURL = "http://example.org/"
+languageCode = "de-at"
+title = "Raaber Baeche"
+theme = "arabica"
+paginate = 5
+
+[params]
+    dateFormatToUse = "02. 01. 2006"
+    facebook = "RaaberBach"
