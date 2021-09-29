@@ -1,6 +1,6 @@
 ---
 title: "🌊 Über uns"
-date: 2021-09-29T12:13:19+02:00
+date: 2021-04-01T12:13:19+02:00
 draft: false
 menu: "main"
 image: /post/about/image.jpg

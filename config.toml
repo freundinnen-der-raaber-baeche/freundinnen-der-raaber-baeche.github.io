@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "de-at"
-title = "Raaber Baeche"
+title = "FreundInnen der Raaber Bäche"
 theme = "arabica"
 paginate = 5
 
