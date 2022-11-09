@@ -5,5 +5,8 @@ theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 paginate = 5
 
 [params]
-    dateFormatToUse = "02. 01. 2006"
+    dateFormatToUse = "2. January 2006"
+    site_logo= "images/logo_50.png"
     facebook = "RaaberBach"
+    body_classes = "bg-near-white"
+    background_color_class= "bg-light-blue"

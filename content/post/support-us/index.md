@@ -1,11 +1,11 @@
 ---
-title: "🐋 Unterstützen!"
+title: "Unterstützen!"
 date: 2021-09-27T16:13:19+02:00
 draft: false
 menu: "main"
-featured_image: /post/support-us/image.jpg
 author: "Sebastian Gassner"
 summary: Die “FreundInnen der Raaber Bäche” sind ein Verein, der im April 2021 in gegründet wurde
+icon: "🐋"
 ---
 
 Die "FreundInnen der Raaber Bäche" sind ein Verein, der im April 2021 in Raab (Oberösterreich) gegründet wurde.

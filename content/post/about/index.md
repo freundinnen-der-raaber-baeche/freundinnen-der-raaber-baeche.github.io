@@ -1,11 +1,12 @@
 ---
-title: "🌊 Über uns"
+title: "Über uns"
 date: 2021-04-01T12:13:19+02:00
 draft: false
 menu: "main"
-featured_image: /post/about/image.jpg
 author: "Sebastian Gassner"
+omit_header_text: true
 summary: Die “FreundInnen der Raaber Bäche” sind ein Verein, der im April 2021 in gegründet wurde
+icon: "🌊"
 ---
 
 Die "FreundInnen der Raaber Bäche" sind ein Verein, der im April 2021 in Raab (Oberösterreich) gegründet wurde.
@@ -13,7 +14,7 @@ Die "FreundInnen der Raaber Bäche" sind ein Verein, der im April 2021 in Raab (
 Wir bestehen aus ehrenamtlichen Mitgliedern und pachten von der Marktgemeinde Raab sämtliche Bäche im Gemeindegebiet: Raaber Bach, ...
 Der Pachtvertrag läuft über 9 Jahre.
 
-Die Tätigkeit unseres Vereins ist nicht auf Gewinn ausgerichtet ist, sondern auf:
+Die Tätigkeit unseres Vereins ist nicht auf Gewinn ausgerichtet, sondern auf:
 
   - das Erleben von intakten Gewässerlandschaften und deren Lebensgemeinschaften in den Vordergrund zu stellen und nicht die Entnahme von Fischen,
   - eine schonende und ethisch vertretbaren Nutzung von Wildfischpopulationen,
