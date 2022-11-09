@@ -3,7 +3,7 @@ title: "🌊 Über uns"
 date: 2021-04-01T12:13:19+02:00
 draft: false
 menu: "main"
-image: /post/about/image.jpg
+featured_image: /post/about/image.jpg
 author: "Sebastian Gassner"
 summary: Die “FreundInnen der Raaber Bäche” sind ein Verein, der im April 2021 in gegründet wurde
 ---

@@ -3,7 +3,7 @@ title: "💦 Daten"
 date: 2021-04-02T10:13:19+02:00
 draft: false
 menu: "main"
-image: /post/data/image.jpg
+featured_image: /post/data/image.jpg
 author: "Sebastian Gassner"
 summary: Im Mai 2021 wurde erstmals eine Fischbestandserhebung in den Raaber Bächen durchgefürht
 ---

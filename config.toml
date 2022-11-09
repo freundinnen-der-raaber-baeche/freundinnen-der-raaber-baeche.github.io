@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "de-at"
 title = "FreundInnen der Raaber Bäche"
-theme = "arabica"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 paginate = 5
 
 [params]
