@@ -1,4 +1,4 @@
-baseURL = "http://raaber-bäche.at/"
+baseURL = "https://freundinnen-der-raaber-baeche.github.io/"
 languageCode = "de-at"
 title = "FreundInnen der Raaber Bäche"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
